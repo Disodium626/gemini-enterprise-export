@@ -4,7 +4,7 @@ A Tampermonkey userscript that exports individual sessions from [Gemini Enterpri
 
 ## Why
 
-Personal Gmail accounts that bought Gemini Enterprise Business do not get access to the admin console or Google Takeout for business-managed chat history. This script pulls individual conversations out of the live web UI and saves them in the same .jsonl format Codex++ expects on disk, so they can be re-imported as a regular local session.
+Personal Gmail accounts that bought Gemini Enterprise Business Edition do not get access to the admin console or Google Takeout for business-managed chat history. This script pulls individual conversations out of the live web UI and saves them in the same .jsonl format Codex++ expects on disk, so they can be re-imported as a regular local session.
 
 ## What it does
 
